@@ -336,7 +336,7 @@ P 7950 1300
 AR Path="/5FCC89CF/60244470" Ref="C?"  Part="1" 
 AR Path="/60244470" Ref="C3"  Part="1" 
 F 0 "C3" H 7900 950 50  0000 L CNN
-F 1 "39u" H 7850 850 50  0000 L CNN
+F 1 "120u" H 7850 850 50  0000 L CNN
 F 2 "Capacitor_SMD:CP_Elec_6.3x7.7" H 7988 1150 50  0001 C CNN
 F 3 "~" H 7950 1300 50  0001 C CNN
 	1    7950 1300
@@ -370,7 +370,7 @@ Connection ~ 7950 1000
 Wire Wire Line
 	7950 1000 8200 1000
 Wire Wire Line
-	7250 1500 7950 1500
+	7250 1500 7500 1500
 Wire Wire Line
 	8200 1500 8200 1450
 Connection ~ 7250 1500
@@ -380,7 +380,7 @@ Connection ~ 7950 1500
 Wire Wire Line
 	7950 1500 8200 1500
 Wire Wire Line
-	7450 1100 7550 1100
+	7450 1100 7500 1100
 Wire Wire Line
 	7850 1100 7950 1100
 Connection ~ 7950 1100
@@ -693,4 +693,27 @@ F1 "esp32_spi.sch" 50
 $EndSheet
 Text Notes 9050 6300 0    50   ~ 0
 (only global labels)
+$Comp
+L Device:D_Schottky D?
+U 1 1 5FCB94B0
+P 7500 1300
+F 0 "D?" V 7454 1380 50  0000 L CNN
+F 1 "MBRS130" V 7545 1380 50  0000 L CNN
+F 2 "" H 7500 1300 50  0001 C CNN
+F 3 "~" H 7500 1300 50  0001 C CNN
+F 4 "Reichelt" H 7500 1300 50  0001 C CNN "Distri"
+F 5 "https://www.reichelt.de/schottky-barrier-gleichrichter-30v-1-0-a-do-214aa-smb-mbrs-130lt3g-ons-p219508.html?search=MBRS130" H 7500 1300 50  0001 C CNN "Link"
+	1    7500 1300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7500 1100 7500 1150
+Connection ~ 7500 1100
+Wire Wire Line
+	7500 1100 7550 1100
+Wire Wire Line
+	7500 1450 7500 1500
+Connection ~ 7500 1500
+Wire Wire Line
+	7500 1500 7950 1500
 $EndSCHEMATC
