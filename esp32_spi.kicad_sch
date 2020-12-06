@@ -1305,7 +1305,7 @@
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 236.22 21.59 270)
+  (symbol (lib_id "power:+5V") (at 236.22 21.59 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "00000000-0000-0000-0000-000060353481")
     (property "Reference" "#PWR0203" (id 0) (at 232.41 21.59 0)
@@ -1320,7 +1320,7 @@
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 266.7 20.32 0)
+  (symbol (lib_id "power:+5V") (at 266.7 20.32 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "170eb4be-bb48-4402-8105-398f9808feac")
     (property "Reference" "#PWR0202" (id 0) (at 266.7 24.13 0)
@@ -1335,7 +1335,7 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 60.96 81.28 0)
+  (symbol (lib_id "power:GND") (at 60.96 81.28 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "ec551f6c-e79a-4071-ace1-751717a64cd6")
     (property "Reference" "#PWR03" (id 0) (at 60.96 87.63 0)
@@ -1510,7 +1510,7 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 220.98 33.02 0)
+  (symbol (lib_id "power:GND") (at 220.98 33.02 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "00000000-0000-0000-0000-000060353474")
     (property "Reference" "#PWR0207" (id 0) (at 220.98 39.37 0)
@@ -1570,7 +1570,7 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 236.22 26.67 90)
+  (symbol (lib_id "power:GND") (at 236.22 26.67 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "00000000-0000-0000-0000-000060353487")
     (property "Reference" "#PWR0204" (id 0) (at 242.57 26.67 0)
@@ -1585,7 +1585,7 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 242.57 35.56 0)
+  (symbol (lib_id "power:GND") (at 242.57 35.56 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "0ab1ff74-e144-4390-a558-b786cfade6ad")
     (property "Reference" "#PWR0209" (id 0) (at 242.57 41.91 0)
@@ -1600,7 +1600,7 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 266.7 33.02 0)
+  (symbol (lib_id "power:GND") (at 266.7 33.02 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "972e1985-3d15-43d1-89f3-028f6ea86866")
     (property "Reference" "#PWR0208" (id 0) (at 266.7 39.37 0)
@@ -1666,7 +1666,7 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 220.98 27.94 0)
+  (symbol (lib_id "Device:R") (at 220.98 27.94 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "00000000-0000-0000-0000-00006035346e")
     (property "Reference" "R202" (id 0) (at 215.9 26.67 0)
@@ -1951,7 +1951,7 @@
     )
   )
 
-  (symbol (lib_id "w1_test_pcb_lib:SN74LV1T34") (at 229.87 24.13 0)
+  (symbol (lib_id "w1_test_pcb_lib:SN74LV1T34") (at 229.87 24.13 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "00000000-0000-0000-0000-00006035347a")
     (property "Reference" "U201" (id 0) (at 224.79 26.67 0))
