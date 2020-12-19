@@ -1,14 +1,14 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "pads": 0.8899999856948853,
-      "tracks": 1.0,
-      "vias": 0.8899999856948853,
+      "pads": 0.38999998569488525,
+      "tracks": 0.7599999904632568,
+      "vias": 0.699999988079071,
       "zones": 0.6
     },
     "ratsnest_display_mode": 0,
@@ -60,7 +60,7 @@
       37,
       38
     ],
-    "visible_layers": "ffdffaf_ffffffff"
+    "visible_layers": "ffdff2f_ffffffff"
   },
   "meta": {
     "filename": "autophon-nerdblatt.kicad_prl",

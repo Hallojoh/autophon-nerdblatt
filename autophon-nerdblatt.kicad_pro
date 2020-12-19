@@ -74,7 +74,6 @@
         "invalid_outline": "error",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
-        "keepout": "error",
         "length_out_of_range": "error",
         "malformed_courtyard": "error",
         "microvia_drill_too_small": "error",
@@ -95,7 +94,6 @@
         "unconnected_items": "error",
         "unresolved_variable": "error",
         "via_dangling": "warning",
-        "via_hole_larger_than_pad": "error",
         "zone_has_empty_net": "error",
         "zones_intersect": "error"
       },
@@ -417,7 +415,7 @@
   },
   "sheets": [
     [
-      "db5e2d92-a0cf-42c2-9b3b-0b7a36436bf3",
+      "00000000-0000-0000-0000-000060348af3",
       ""
     ],
     [
