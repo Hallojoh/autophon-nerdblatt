@@ -6,9 +6,9 @@
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "pads": 0.38999998569488525,
-      "tracks": 0.7599999904632568,
-      "vias": 0.699999988079071,
+      "pads": 1.0,
+      "tracks": 0.9300000071525574,
+      "vias": 1.0,
       "zones": 0.6
     },
     "ratsnest_display_mode": 0,
@@ -60,7 +60,7 @@
       37,
       38
     ],
-    "visible_layers": "ffdff2f_ffffffff"
+    "visible_layers": "fffff23_ffffffff"
   },
   "meta": {
     "filename": "autophon-nerdblatt.kicad_prl",

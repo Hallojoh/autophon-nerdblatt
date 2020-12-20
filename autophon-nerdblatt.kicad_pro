@@ -425,6 +425,10 @@
     [
       "00000000-0000-0000-0000-00005fcc89cf",
       "MotorDrivers"
+    ],
+    [
+      "d435472b-a8e5-43a2-9c6b-4ad975f77aa6",
+      "Display_Sensors"
     ]
   ],
   "text_variables": {}
