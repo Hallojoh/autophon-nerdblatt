@@ -665,7 +665,7 @@
     (property "Footprint" "Display:EA W096016-XA" (id 2) (at 61.595 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 61.595 59.69 0)
+    (property "Datasheet" "https://cdn-reichelt.de/documents/datenblatt/A500/W096016-XA.pdf" (id 3) (at 61.595 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Distri" "Reichelt" (id 4) (at 61.595 59.69 0)
