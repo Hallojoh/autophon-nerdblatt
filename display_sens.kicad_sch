@@ -517,6 +517,12 @@
     (property "Datasheet" "~" (id 3) (at 41.91 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Distri" "Reichelt" (id 4) (at 41.91 67.31 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Link" "https://www.reichelt.de/smd-widerstand-0603-910-kohm-100-mw-1--rnd-0603-1-910k-p183123.html?search=0603+910" (id 5) (at 41.91 67.31 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
   )
 
   (symbol (lib_id "Device:C") (at 21.59 46.99 0) (unit 1)
