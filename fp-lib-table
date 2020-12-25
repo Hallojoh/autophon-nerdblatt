@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "autophon-nerdblatt")(type "KiCad")(uri "${KIPRJMOD}/autophon-nerdblatt.pretty")(options "")(descr ""))
   (lib (name "Display")(type "KiCad")(uri "${KIPRJMOD}/Display.pretty")(options "")(descr ""))
+  (lib (name "Grafiks")(type "KiCad")(uri "${KIPRJMOD}/Grafiks.pretty")(options "")(descr ""))
 )
